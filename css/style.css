@@ -122,11 +122,19 @@ h2 {
     border: 2px solid;
 }
 
+.img-VM{
+    float:inline-start;
+    width: 25%;
+    margin: 5px;
+    margin-left: 150px;
+    border: 2px solid;
+}
+
 .vid-veste{
     float:inline-start;
     width: 19%;
     margin: 5px;
-    margin-left: 185px;
+    margin-left: 180px;
     border: 2px solid;
 }
 .img-VD{
@@ -140,7 +148,7 @@ h2 {
     float:inline-start;
     width: 30%;
     margin: 5px;
-    margin-left: 55px;
+    margin-left: 50px;
     border: 2px solid;
 }
 
